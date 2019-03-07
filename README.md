@@ -1,4 +1,4 @@
-![Ludum logo](extra/logo_1.png)
+![Flappy logo](extra/flappy.png)
 
 Link to [**Ludum Game Engine Demo**](https://bergurijohansen.github.io/LudumGameEngine/)
 
